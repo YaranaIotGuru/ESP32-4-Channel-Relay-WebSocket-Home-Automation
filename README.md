@@ -40,3 +40,5 @@ This project is brought to you by Yarana IoT Guru. Visit our [YouTube channel](h
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+[![Thumbnail](https://img.youtube.com/vi/SXMlG2VwAGE/maxresdefault.jpg)](https://youtu.be/SXMlG2VwAGE)
